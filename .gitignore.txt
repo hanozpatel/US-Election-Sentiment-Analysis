@@ -1,0 +1,10 @@
+# Ignore API keys file
+scripts/config.py
+
+# Ignore virtual environments
+.env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
